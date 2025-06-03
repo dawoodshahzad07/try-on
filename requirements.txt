@@ -1,0 +1,8 @@
+mediapipe
+opencv-python
+numpy
+# Add torch and torchvision if MiDaS utils require direct interaction
+# torch
+# torchvision
+# Add other potential dependencies like scipy for geometric calculations
+# scipy

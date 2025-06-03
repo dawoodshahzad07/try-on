@@ -1,0 +1,63 @@
+{
+  "female": {
+    "t-shirt": {
+      "S": {
+        "chest_circumference_cm": [84, 89],
+        "waist_circumference_cm": [66, 71]
+      },
+      "M": {
+        "chest_circumference_cm": [90, 95],
+        "waist_circumference_cm": [72, 77]
+      },
+      "L": {
+        "chest_circumference_cm": [96, 102],
+        "waist_circumference_cm": [78, 84]
+      }
+    },
+    "jeans": {
+      "26": {
+        "waist_circumference_cm": [64, 67],
+        "hip_circumference_cm": [89, 92]
+      },
+      "28": {
+        "waist_circumference_cm": [68, 72],
+        "hip_circumference_cm": [93, 97]
+      },
+      "30": {
+        "waist_circumference_cm": [73, 77],
+        "hip_circumference_cm": [98, 102]
+      }
+    }
+  },
+  "male": {
+    "t-shirt": {
+      "S": {
+        "chest_circumference_cm": [88, 94],
+        "waist_circumference_cm": [74, 80] 
+      },
+      "M": {
+        "chest_circumference_cm": [95, 101],
+        "waist_circumference_cm": [81, 87]
+      },
+      "L": {
+        "chest_circumference_cm": [102, 108],
+        "waist_circumference_cm": [88, 94]
+      }
+    },
+    "jeans": {
+      "30W/32L": {
+        "waist_circumference_cm": [76, 80],
+        "inseam_cm": [80, 82]
+      },
+      "32W/32L": {
+        "waist_circumference_cm": [81, 85],
+        "inseam_cm": [80, 82]
+      },
+      "34W/34L": {
+        "waist_circumference_cm": [86, 90],
+        "inseam_cm": [85, 87]
+      }
+    }
+  }
+}
+
